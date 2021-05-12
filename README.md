@@ -1,4 +1,4 @@
-# Jongung-maker&nbsp;<img src="https://github.com/Jongung-maker/Jongung-maker/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gridient&height=300&section=header&text=Jongung-maker's%20Github&fontSize=40)
 
