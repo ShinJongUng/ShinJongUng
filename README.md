@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jongung%20Shin&fontSize=90)
 
-  <div align=center>
+  <center>
 
 
 <p>
@@ -26,8 +26,7 @@
 
 * Email: whddnd0728@gmail.com
 
- </div>
-  
+</center>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90)
