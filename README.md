@@ -7,13 +7,13 @@
 
 <p>
   <em>
-    인제대학교 21학번 학생입니다. 👨‍💻 <br>
-    C 파이썬 리액트 3가지 공부중입니다. 🎁 <br>
+    I am currently freshman at Inje-University (Major-Computer Engineering) 👨‍💻 <br>
+    studying C Python React(javascript)🎁 <br>
     ✨<b>다양한 프로젝트 환영입니다</b>✨
   </em>  
 </p>
  (ᶘ◕‿ᴥ‿◕ ᶅ) 
-<br>2021년도 현재 19살<br>
+<br>2021year / I am 19years old<br>
 
 ![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api?username=Jongung-maker&show_icons=true) <br><br>
 [![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongung-maker&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jongung-maker)
