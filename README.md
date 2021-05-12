@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jongung%20render&fontSize=90)
+
 
 
 <p>
@@ -27,5 +28,5 @@
   <div align=center>
  
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+
 
