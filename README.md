@@ -12,6 +12,8 @@
     ✨<b>다양한 프로젝트 환영입니다</b>✨
   </em>  
 </p>
+ (ᶘ◕‿ᴥ‿◕ ᶅ) 
+<br>2021년도 현재 19살<br>
 
 ![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api?username=Jongung-maker&show_icons=true) <br><br>
 [![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongung-maker&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jongung-maker)
