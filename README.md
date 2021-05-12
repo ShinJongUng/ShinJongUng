@@ -1,6 +1,6 @@
 # Jongung-maker&nbsp;<img src="https://github.com/Jongung-maker/Jongung-maker/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Jongung-maker's%20Github&fontSize=40)
 
 ### Hello world!&nbsp;<img src="https://github.com/Jongung-maker/Jongung-maker/blob/master/earth.gif" width="24px">
 
@@ -16,18 +16,16 @@
 [![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongung-maker&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jongung-maker)
 ### Online Judge 💻
 
-* BOJ: [Jongung-maker](http://icpc.me/Jongung-maker)
-  * solvedac: [Jongung-maker](https://solved.ac/profile/Jongung-maker)
+* BOJ: [whddnd0728](http://icpc.me/whddnd0728)
+  * solvedac: [whddnd0728](https://solved.ac/profile/whddnd0728)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jongung-maker)](https://solved.ac/Jongung-maker)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whddnd0728)](https://solved.ac/whddnd0728)
 
 
 
 ### Contacts 📫
 
-* Github Repo Issue
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+* Email: whddnd0728@gmail.com
 
   <div align=center>
  
