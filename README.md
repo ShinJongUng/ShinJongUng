@@ -1,8 +1,8 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gridient&height=300&section=header&text=Jongung-maker's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-### Hello world!&nbsp;<img src="https://github.com/Jongung-maker/Jongung-maker/blob/master/earth.gif" width="24px">
 
 <p>
   <em>
