@@ -17,8 +17,8 @@
 [![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongung-maker&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jongung-maker)
 ### Online Judge 💻
 
-* BOJ: [whddnd0728](http://icpc.me/whddnd0728)
-  * solved ac: [whddnd0728](https://solved.ac/profile/whddnd0728)
+BOJ: [whddnd0728](http://icpc.me/whddnd0728)
+  solved ac: [whddnd0728](https://solved.ac/profile/whddnd0728)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whddnd0728)](https://solved.ac/whddnd0728)
 
@@ -26,7 +26,7 @@
 
 ### Contacts 📫
 
-* Email: whddnd0728@gmail.com
+ Email: whddnd0728@gmail.com
 
 
 
