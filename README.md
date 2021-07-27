@@ -7,8 +7,8 @@
 
 <p>
   <em>
-    I am currently freshman at Inje-University (Major-Computer Engineering) 👨‍💻 <br>
-    studying C Python React(javascript)🎁 <br>
+    (Major-Computer Engineering) 👨‍💻 <br>
+    studying C# Python React🎁 <br>
     ✨<b>다양한 프로젝트 환영입니다</b>✨
   </em>  
 </p>
