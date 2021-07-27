@@ -15,8 +15,8 @@
  (ᶘ◕‿ᴥ‿◕ ᶅ) 
 <br>17 years old<br>
 
-![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api?username=Jongung-maker&show_icons=true) <br><br>
-[![Jongung-maker's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongung-maker&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jongung-maker)
+![ShinJongUng's github stats](https://github-readme-stats.vercel.app/api?username=ShinJongUng&show_icons=true) <br><br>
+[![ShinJongUng's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ShinJongUng)
 ### Online Judge 💻
 
 BOJ: [whddnd0728](http://icpc.me/whddnd0728)<br><br>
