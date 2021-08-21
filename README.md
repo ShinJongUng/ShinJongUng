@@ -26,6 +26,8 @@ BOJ: [whddnd0728](http://icpc.me/whddnd0728)<br><br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whddnd0728)](https://solved.ac/whddnd0728)
 
 <br><br>
+<img src="https://ghchart.rshah.org/JongUngShin"/>
+<br><br>
 
 ### Contacts 📫
 
