@@ -15,7 +15,6 @@
  (ᶘ◕‿ᴥ‿◕ ᶅ) 
 <br>19 years old<br>
 
-![ShinJongUng's github stats](https://github-readme-stats.vercel.app/api?username=ShinJongUng&show_icons=true) <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&langs_count=8)](https://github.com/ShinJongUng/github-readme-stats)
 <br>
 ### Online Judge 💻
