@@ -14,6 +14,8 @@
 </p>
  (ᶘ◕‿ᴥ‿◕ ᶅ) 
 <br>19 years old<br>
+  
+  <img src="https://raw.githubusercontent.com/ShinJongUng/ShinJongUng/master/github-metrics.svg" alt="ShinJongUng">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&langs_count=8)](https://github.com/ShinJongUng/github-readme-stats)
 <br>
