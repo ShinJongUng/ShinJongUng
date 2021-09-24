@@ -8,7 +8,7 @@
 <p>
   <em>
     (Major-Computer Engineering) 👨‍💻 <br>
-    studying C# C++ JS <br>
+    studying C# C++ JS(web) <br>
     ✨<b>다양한 프로젝트 환영입니다!!</b>✨
   </em>  
 </p>
