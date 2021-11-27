@@ -13,7 +13,6 @@
   </em>  
 </p>
  (ᶘ◕‿ᴥ‿◕ ᶅ) 
-<br>19 years old<br>
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&langs_count=10)](https://github.com/ShinJongUng/github-readme-stats)
