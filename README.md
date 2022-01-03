@@ -11,7 +11,7 @@
 
 ## CARDS
     
-   * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
+   * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
 
     
 ### Online Judge 💻
