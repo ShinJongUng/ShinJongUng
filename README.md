@@ -12,7 +12,7 @@
   * (2021 ~ ) 인제대학교 AI 단과대학 학생회 차장
   
 ## PROJECT & ACTIVITY
-  * (2021.08 ~ ) <컴퓨터 교사> [온누리 국제 학교](http://www.oicschool.com/)<br><br>
+  * (2021.08 ~ ) [컴퓨터 교사] [온누리 국제 학교](http://www.oicschool.com/)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ### Online Judge 💻
