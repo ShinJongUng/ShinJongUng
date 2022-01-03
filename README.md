@@ -1,8 +1,3 @@
-  <div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jongung%20Shin&fontSize=90)
-
-
 
   <div align=left>
 
@@ -37,7 +32,4 @@ BOJ: [whddnd0728](http://icpc.me/whddnd0728)<br><br>
 
  Email: whddnd0728@gmail.com
 
-<br>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90)
-</div>
