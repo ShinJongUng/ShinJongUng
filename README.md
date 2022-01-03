@@ -4,6 +4,7 @@
 
 
 
+  <div align=left>
 
 ## SCHOOL
   * (2021 ~ ) 인제대학교 컴퓨터공학과
