@@ -12,18 +12,8 @@
 ## CARDS
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
-
-    
-### Online Judge 💻
-
-BOJ: [whddnd0728](http://icpc.me/whddnd0728)<br><br>
-  solved ac: [whddnd0728](https://solved.ac/profile/whddnd0728)<br>
-  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whddnd0728)](https://solved.ac/whddnd0728)
-<br><br>
-  
-  notion: [안녕하세요 신종웅입니다.](https://sumptuous-dewberry-b73.notion.site/c8076f86fab04efdaed56474c61ce04f)
-<br><br>
+
 <img src="https://ghchart.rshah.org/219138/ShinJongUng"/>
                                                  
 <br><br>
