@@ -15,8 +15,10 @@
   * (2021.08 ~ ) [컴퓨터 교사] [온누리 국제 학교](http://www.oicschool.com/)<br><br>
 
 ## CARDS
+    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
+    
 ### Online Judge 💻
 
 BOJ: [whddnd0728](http://icpc.me/whddnd0728)<br><br>
