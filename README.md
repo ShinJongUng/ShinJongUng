@@ -11,8 +11,7 @@
 
 ## CARDS
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongUng&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whddnd0728)](https://solved.ac/whddnd0728)
 
