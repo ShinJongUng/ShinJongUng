@@ -7,7 +7,8 @@
   * (2021.03 ~ ) 인제대학교 AI 단과대학 학생회
   
 ## PROJECT & ACTIVITY
-  * (2021.08 ~ ) 컴퓨터 교사 [온누리 국제 학교](https://onnuri-academy.web.app/)<br><br><br>
+  * (2021.08 ~ ) 컴퓨터 교사 [온누리 국제 학교](https://onnuri-academy.web.app/)<br>
+  * (2022.07 ~ ) [DND 7기](https://www.dnd.ac/)<br><br><br>
 
 ## CARDS
     
