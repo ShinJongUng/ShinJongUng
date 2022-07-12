@@ -3,12 +3,12 @@
 
 ## SCHOOL
   * (2022.02 ~ ) 인제대학교 개발 동아리 [Megabrain](https://megabrain.kr/)
-  * (2021.03 ~ ) 인제대학교 컴퓨터공학과
   * (2021.03 ~ ) 인제대학교 AI 단과대학 학생회
+  * (2021.03 ~ ) 인제대학교 컴퓨터공학과
   
 ## PROJECT & ACTIVITY
-  * (2021.08 ~ ) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br>
-  * (2022.07 ~ ) [DND](https://www.dnd.ac/) 7기<br><br><br>
+  * (2022.07 ~ ) [DND](https://www.dnd.ac/) 7기
+  * (2021.08 ~ ) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br><br><br><br>
 
 ## CARDS
     
