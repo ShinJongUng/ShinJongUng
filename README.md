@@ -8,7 +8,7 @@
   
 ## PROJECT & ACTIVITY
   * (2022.07 ~ ) [DND](https://www.dnd.ac/) 7기
-  * (2021.08 ~ ) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br><br><br>
+  * (2021.08 ~ 2022.08) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br><br><br>
   
 
 ## 💪 Skills
