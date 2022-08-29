@@ -8,7 +8,15 @@
   
 ## PROJECT & ACTIVITY
   * (2022.07 ~ ) [DND](https://www.dnd.ac/) 7기
-  * (2021.08 ~ ) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br><br><br><br>
+  * (2021.08 ~ ) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br><br><br><br
+  
+  
+
+## 💪 Skills
+### Language
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ## CARDS
     
