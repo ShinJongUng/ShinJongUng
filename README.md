@@ -7,7 +7,7 @@
   * (2021.03 ~ ) 인제대학교 컴퓨터공학과
   
 ## PROJECT & ACTIVITY
-  * (2022.07 ~ ) [DND 7th](https://github.com/dnd-side-project/dnd-7th-6-frontend) 포토부스 추천 서비스 Photalks
+  * (2022.07 ~ 2022.09 ) [DND 7th](https://github.com/dnd-side-project/dnd-7th-6-frontend) 포토부스 추천 서비스 Photalks
   * (2021.08 ~ 2022.08) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사<br><br><br>
   
 
