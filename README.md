@@ -8,7 +8,7 @@
   * (2022.07 ~ 2022.09) [DND 7th](https://github.com/dnd-side-project/dnd-7th-6-frontend) 포토부스 추천 서비스 [Photalks](https://dnd.ac/project/44)
   * (2021.08 ~ 2022.08) [온누리 국제 학교](https://onnuri-academy.web.app/) 컴퓨터 교사
 ## SCHOOL
-  * (2022.12 ~ ) 웹 개발 동아리 Megabrain 팀장
+  * (2022.12 ~ 2023.04) 웹 개발 동아리 Megabrain 팀장
   * (2022.02 ~ ) 인제대학교 개발 동아리 [Megabrain](https://megabrain.kr/)
   * (2021.03 ~ 2022.12) 인제대학교 AI 단과대학 학생회 (라일락, 리셋)
   * (2021.03 ~ ) 인제대학교 컴퓨터공학과 <br><br><br>
