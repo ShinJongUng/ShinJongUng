@@ -3,6 +3,7 @@
   
 ## PROJECT & ACTIVITY
   * (2023.04 ~ ing) SWMaestro 대화형 인공지능 보안 솔루션
+  * (2023.04) SWMaestro [소마 밥집(인제밥집)](https://github.com/SOMA-Mini-Team-48/SOMA-BAP.ZIP) 주변 맛집 소개 서비스
   * (2023.01) [메가톤 2023:인제생](https://github.com/inje-megabrain/IJS-FE-hackerthon) 학교 유틸리티 앱
   * (2022.12 ~ 2023.02) [Trend In One](https://github.com/inje-megabrain/trend-in-one-fe) 글로벌 트렌드를 한눈에!
   * (2022.10 ~ 2022.11) [Mega Waka Board](https://github.com/inje-megabrain/Mega-Waka-Board-fe) 동아리 와카타임 대시보드 구축
