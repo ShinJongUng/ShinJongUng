@@ -24,7 +24,7 @@
   
 ### Library and FrameWork
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-61DAFB?style=for-the-badge&logo=Next.js&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=Next.js&logoColor=black">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"><br><br>
   
 
