@@ -2,7 +2,7 @@
   <div align=left>
   
 ## PROJECT & ACTIVITY
-  * (2023.04 ~ ing) [SWMaestro](https://www.swmaestro.org/) 대화형 인공지능 보안 솔루션 Seity
+  * (2023.04 ~ 2023.12) [SWMaestro](https://www.swmaestro.org/) 대화형 인공지능 보안 솔루션 Seity
   * (2023.04) [SWMaestro](https://www.swmaestro.org/) [소마 밥집(인제밥집)](https://github.com/SOMA-Mini-Team-48/SOMA-BAP.ZIP) 주변 맛집 소개 서비스
   * (2023.01) 메가톤 2023 [인제생 v1](https://github.com/inje-megabrain/IJS-FE-hackerthon) 학교 유틸리티 앱
   * (2022.12 ~ 2023.02) [Trend In One](https://github.com/inje-megabrain/trend-in-one-fe) 글로벌 트렌드를 한눈에!
