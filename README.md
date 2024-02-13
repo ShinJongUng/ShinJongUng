@@ -2,6 +2,7 @@
   <div align=left>
   
 ## PROJECT & ACTIVITY
+  * (2024.01) 메가톤 2024 [위픽](https://github.com/megabrain-hackathon/2024-wepic-frontend) 친구와 나를 잇는 위젯 사진 공유 서비스 
   * (2023.04 ~ 2023.12) [SWMaestro](https://www.swmaestro.org/) 대화형 인공지능 보안 솔루션 [Seity](https://github.com/swm-serendipity/seity-fe)
   * (2023.04) [SWMaestro](https://www.swmaestro.org/) [소마 밥집(인제밥집)](https://github.com/SOMA-Mini-Team-48/SOMA-BAP.ZIP) 주변 맛집 소개 서비스
   * (2023.01) 메가톤 2023 [인제생 v1](https://github.com/inje-megabrain/IJS-FE-hackerthon) 학교 유틸리티 앱
