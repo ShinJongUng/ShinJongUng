@@ -38,6 +38,7 @@ AI체계개발병 / 군 AI 제품 개발
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-f6f8fa?style=flat&amp;logo=nextdotjs&amp;logoColor=111111" height="22">
       <img alt="Vue" src="https://img.shields.io/badge/Vue-f6f8fa?style=flat&amp;logo=vuedotjs&amp;logoColor=42B883" height="22">
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-f6f8fa?style=flat&amp;logo=tailwindcss&amp;logoColor=06B6D4" height="22">
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-f6f8fa?style=flat&amp;logo=flutter&amp;logoColor=02569B" height="22">
     </td>
   </tr>
   <tr>
