@@ -11,21 +11,21 @@ Software Engineer building web & AI products.
 소프트웨어 개발 인턴
 
 **공군본부 AI체계개발팀** &nbsp; <sub>2024.09 — 2026.06</sub><br>
-프로덕트 엔지니어
+AI체계개발병 / 군 AI 제품 개발 
 
 **SW마에스트로 14기** &nbsp; <sub>2023.04 — 2023.11</sub><br>
 기업용 보안 AI 솔루션 Seity 팀장 · 서비스 기획, 프론트엔드 개발
 
-### Selected Projects
+### Side Projects
 
-**[Talkbeam](https://talkbeam.kr)**<br>
-강연·발표의 실시간 자막과 다국어 번역을 링크로 공유하는 서비스
-
-**[공군 점수 계산기](https://util.jongung.com/)** &nbsp; <sub>2025.10 — 2026.03</sub><br>
-모집요강을 바탕으로 공군 지원 점수를 계산 및 예측하는 서비스 · 월간 활성 사용자 1만 명
+**[Talkbeam](https://talkbeam.kr)** &nbsp; <sub>2026.07 - current</sub><br>
+강연, 발표의 실시간 자막과 다국어 번역을 링크로 공유하는 서비스
 
 **[AI 씨앗순장](https://github.com/busanCCC/CCCAI)** &nbsp; <sub>2026.01 — 2026.05</sub><br>
 커뮤니티 교재와 모임 맥락에 맞춰 질문에 답하는 RAG 서비스
+
+**[공군 점수 계산기](https://util.jongung.com/)** &nbsp; <sub>2025.10 — 2026.03</sub><br>
+모집요강을 바탕으로 공군 지원 점수를 계산 및 예측하는 서비스 · 월간 활성 사용자 1만 명
 
 ### Tech I work with
 
